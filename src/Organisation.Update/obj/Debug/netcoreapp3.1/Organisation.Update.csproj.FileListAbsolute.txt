@@ -1,0 +1,12 @@
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/obj/Debug/netcoreapp3.1/Organisation.Update.csprojAssemblyReference.cache
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/obj/Debug/netcoreapp3.1/Organisation.Update.AssemblyInfoInputs.cache
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/obj/Debug/netcoreapp3.1/Organisation.Update.AssemblyInfo.cs
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/obj/Debug/netcoreapp3.1/Organisation.Update.csproj.CoreCompileInputs.cache
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/bin/Debug/netcoreapp3.1/Organisation.Update.deps.json
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/bin/Debug/netcoreapp3.1/Organisation.Update.runtimeconfig.json
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/bin/Debug/netcoreapp3.1/Organisation.Update.runtimeconfig.dev.json
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/bin/Debug/netcoreapp3.1/Organisation.Update.dll
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/bin/Debug/netcoreapp3.1/Organisation.Update.pdb
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/obj/Debug/netcoreapp3.1/Organisation.Update.dll
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/obj/Debug/netcoreapp3.1/Organisation.Update.pdb
+/Users/si/Werk/aws-lambda/dot-net-cli/onion.api/src/Organisation.Update/obj/Debug/netcoreapp3.1/Organisation.Update.genruntimeconfig.cache
